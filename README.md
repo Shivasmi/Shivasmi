@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivasmi
+- 👋 Hi, I’m @Shiva
 - 👀 I’m interested in cloud and coding 
 - 🌱 I’m currently learning AWS, Terraform, Kubernetes, Docker, Jenkin and python 
 - 💞️ I’m looking to collaborate on Cloud project 
